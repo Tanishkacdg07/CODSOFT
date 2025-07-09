@@ -17,14 +17,7 @@ This is a simple Rock Paper Scissors game created using **Python's Tkinter GUI l
 2. Download or clone this repository.
 3. Run the file using:
 
-```bash
 python rock_paper_scissors.py
-```
-
-## 📸 Screenshot
-*(Optional - Add screenshot if needed)*
-
----
 
 **Internship:** CodSoft  
 **Task:** #3 - Rock Paper Scissors Game  
