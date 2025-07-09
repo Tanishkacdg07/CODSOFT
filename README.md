@@ -1,29 +1,25 @@
-# Task 1 - Password Generator
+# CodSoft Task 2 - GUI Calculator App 🧮
 
-✅ **Internship Task:** Create a password generator GUI using Python (tkinter)  
-👩‍💻 **Created by:** Tanishka  
-📅 **Internship:** CodSoft - July 2025 Batch    
-🙋‍♀️ **Connect with me:** [LinkedIn - Tanishka Soni](https://www.linkedin.com/in/tanishka-soni)
+This is a simple calculator application built using **Python Tkinter** as part of the CodSoft internship.
 
-## 🧠 Features:
+## 🔧 Features
+- Addition, Subtraction, Multiplication, Division
+- Clear (AC) and Backspace (<---) options
+- Error handling for invalid inputs
+- GUI designed with Tkinter
 
-- GUI-based password generator
-- Takes custom password length from user
-- Uses letters, digits & special characters
-- Shows warning if input is invalid or too short
-- Clear button to reset fields
+## ▶️ How to Run
+1. Install Python (3.x) on your system
+2. Run the `calculator.py` file:
 
-## 🚀 How to Run
-
-1. Make sure Python is installed.
-2. Run the script using:
 ```bash
-python password_generator.py
+python calculator.py
 ```
 
----
+## 📷 Screenshot
+(You can add a screenshot here if needed)
 
-## 📝 Notes
+## 👩‍💻 Created by:
+**Tanishka Soni**  
+[LinkedIn](https://www.linkedin.com/in/tanishkasoni)  
 
-- Minimum password length should be 4.
-- Built using `tkinter` module for GUI.
