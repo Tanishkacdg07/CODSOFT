@@ -1,21 +1,33 @@
-# CodSoft Task 2 - GUI Calculator App 🧮
+# Rock Paper Scissors - CodSoft Task 3 🎮
 
-This is a simple calculator application built using **Python Tkinter** as part of the CodSoft internship.
+This is a simple Rock Paper Scissors game created using **Python's Tkinter GUI library** as part of **CodSoft Internship Task 3**.
 
-## 🔧 Features
-- Addition, Subtraction, Multiplication, Division
-- Clear (AC) and Backspace (<---) options
-- Error handling for invalid inputs
-- GUI designed with Tkinter
+## 📌 Features
+- GUI-based interface using Tkinter
+- Randomized computer choice
+- Clear result display (Win / Lose / Tie)
+- Colorful and beginner-friendly UI
 
-## ▶️ How to Run
-1. Install Python (3.x) on your system
-2. Run the `calculator.py` file:
+## 🛠️ Tech Stack
+- Python 🐍
+- Tkinter (for GUI)
 
-python calculator.py
+## 💡 How to Run
+1. Make sure Python is installed on your system.
+2. Download or clone this repository.
+3. Run the file using:
 
+```bash
+python rock_paper_scissors.py
+```
 
-## 👩‍💻 Created by:
-**Tanishka Soni**  
-[LinkedIn](https://www.linkedin.com/in/tanishkasoni)  
+## 📸 Screenshot
+*(Optional - Add screenshot if needed)*
 
+---
+
+**Internship:** CodSoft  
+**Task:** #3 - Rock Paper Scissors Game  
+**Language:** Python  
+**Student:** Tanishka  
+**College:** NIET (B.Tech AIML - 1st Year)
