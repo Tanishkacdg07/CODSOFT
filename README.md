@@ -12,12 +12,8 @@ This is a simple calculator application built using **Python Tkinter** as part o
 1. Install Python (3.x) on your system
 2. Run the `calculator.py` file:
 
-```bash
 python calculator.py
-```
 
-## 📷 Screenshot
-(You can add a screenshot here if needed)
 
 ## 👩‍💻 Created by:
 **Tanishka Soni**  
