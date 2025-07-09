@@ -2,11 +2,8 @@
 
 ✅ **Internship Task:** Create a password generator GUI using Python (tkinter)  
 👩‍💻 **Created by:** Tanishka  
-📅 **Internship:** CodSoft - July 2025 Batch  
-🔗 **LinkedIn Demo Video:** _[Add Your Video Link Here]_  
+📅 **Internship:** CodSoft - July 2025 Batch    
 🙋‍♀️ **Connect with me:** [LinkedIn - Tanishka Soni](https://www.linkedin.com/in/tanishka-soni)
-
----
 
 ## 🧠 Features:
 
@@ -15,8 +12,6 @@
 - Uses letters, digits & special characters
 - Shows warning if input is invalid or too short
 - Clear button to reset fields
-
----
 
 ## 🚀 How to Run
 
